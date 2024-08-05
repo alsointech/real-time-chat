@@ -11,8 +11,7 @@
 $ npm install
 ```
 
-# Dependencies
-- [env-var](https://www.npmjs.com/package/env-var): Verification, sanitization, and type coercion for environment variables 
+
 
 ## Running the app
 
